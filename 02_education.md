@@ -21,7 +21,7 @@ title: Educational Experience
 
 <li>
   <p>
-    Ph.D. (Electrical and Electronics Engineering), <b>BITS-Pilani</b>, 2021
+    Ph.D. <b>BITS-Pilani</b>, 2021
    </p>
  </li>
 

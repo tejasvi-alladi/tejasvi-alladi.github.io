@@ -21,7 +21,15 @@ title: Professional Experience
 
 <li>
   <p>
-    Postdoctoral Researcher, <b>Carleton University, Canada</b>, January 2021 onwards
+    Assistant Professor, <b>Department of CSIS, BITS-Pilani</b>, January 2022 onwards
+   </p>
+ </li>
+
+<br>
+
+<li>
+  <p>
+    Postdoctoral Researcher, <b>Carleton University, Canada</b>, January 2021 - December 2021
    </p>
  </li>
 
